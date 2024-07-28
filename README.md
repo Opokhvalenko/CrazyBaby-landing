@@ -1,4 +1,4 @@
-# Project: Dia -  Crazy Baby Website
+# Project:  Crazy Baby Website
 Crazy Baby is a web project showcasing the Luna futuristic wireless speaker. This project demonstrates advanced front-end development techniques using HTML, CSS (Sass), and JavaScript to create a responsive and visually appealing website.
 
 <h2>Project Description</h2>
